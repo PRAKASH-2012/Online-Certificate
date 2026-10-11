@@ -63,22 +63,6 @@ Click the certificate titles to view the original files in this repository.
 
 ---
 
-### NASSCOM Foundation
-
-<a href="./Nasscom%20Foundation.jpg">
-  <img src="./Nasscom%20Foundation.jpg" width="80%" alt="NASSCOM Foundation certificate preview"/>
-</a>
-
-<a href="./Nasscom%20Foundation%20%282%29.jpg">
-  <img src="./Nasscom%20Foundation%20%282%29.jpg" width="80%" alt="Additional NASSCOM Foundation certificate preview"/>
-</a>
-
-*Select an image to open its full-size repository file.*
-
-</div>
-
----
-
 ## 🧰 Technical Interests & Skills
 
 <div align="center">
